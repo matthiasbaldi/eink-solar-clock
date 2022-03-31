@@ -1,0 +1,7 @@
+paho-mqtt
+RPi.GPIO
+setuptools
+urllib3
+Wand
+waveshare-epd
+wheel
