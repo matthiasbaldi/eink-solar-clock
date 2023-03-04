@@ -1,5 +1,7 @@
 # E-Ink Solar Clock
 
+> Blog Entry: https://maruba.ch/blog/info-screen-fuer-solaranlage/
+
 ![E-Ink Display Foto](https://secanis-public-storage.s3.nl-ams.scw.cloud/staticweb/3c75a64be78c63a6a776aea2664d07e6/rpi-eink-display_6.jpg)
 
 ## Deployment / Development
